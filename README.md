@@ -16,5 +16,5 @@ CIFAR10 image dataset has been imported from Keras.
 
 **Task 2:** Image Denoising  
 * Experiment with the provided partial Autoencoder models.
-* Select the best andimprove its performance.
+* Select the best and improve its performance.
 * Report all your experimental work.
