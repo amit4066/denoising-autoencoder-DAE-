@@ -8,6 +8,8 @@ The aim of this Project is to build a denoising autoencoder (DAE) with CNN to to
 
 CIFAR10 image dataset has been imported from Keras.
 
+### Tasks:
+
 **Task 1**: Data Exploration and Preparation 
 * Explore and visualize characteristics of the provided data. 
 * Prepare data for image denoising.
